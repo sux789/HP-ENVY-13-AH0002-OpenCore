@@ -1,6 +1,6 @@
 # HP-ENVY-13-AH0002-OpenCore
 Attempt to Hackintosh a 13" HP ultrabook
-
+https://blog.daliansky.net/macOS-BigSur-11.1-20C69-Release-version-with-Clover-5127-and-OC-0.6.4-and-PE-original-image.html
 ### Overall
 So far the build is awesome, cold boot time to Mac in 16 seconds!
 
